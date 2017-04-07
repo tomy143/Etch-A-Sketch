@@ -1,0 +1,21 @@
+title {
+	position: relative;
+}
+.finishGrid {
+	margin:0;
+	padding:0;
+	border:none;
+	outline:1px solid black;
+display:inline-block;
+	}
+	#container {
+		position: relative;
+		top: 30px;
+		outline:2px solid black ;
+		font-size: 0;
+		margin:auto;
+		height:auto;
+		width:400px;
+		padding: 0;
+	border: none;
+}
